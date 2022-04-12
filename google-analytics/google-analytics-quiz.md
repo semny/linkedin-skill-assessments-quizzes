@@ -567,10 +567,12 @@
 
 #### Q80. Which type of goal allows you to specifiy a funnel?
 
-- [ ] Destination
+- [x] Destination
 - [ ] Duration
 - [ ] Pages/Screens per Session
 - [ ] Event
+
+[Reference] (https://support.google.com/analytics/answer/1012040)
 
 #### Q82. What is an interaction that causes data to be sent to Analytics?
 
